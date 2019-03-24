@@ -10,6 +10,7 @@ package main;
  * @author User
  */
 public class GradeChecker {
+    //demo
     public int checkPassed(double grade) {
         if (grade > 10)
             return 2;
